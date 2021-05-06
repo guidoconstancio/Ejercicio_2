@@ -9,10 +9,10 @@ public class Ejercicio_grupal_completado {
 
 		Scanner scan = new Scanner(System.in);
 
-		int cantEmpleadosSector1 = 0, cantCasosSector1 = 0;
-		int cantEmpleadosSector2 = 0, cantCasosSector2 = 0;
-		int cantEmpleadosSector3 = 0, cantCasosSector3 = 0;
-		int cantCasosGral = 0;
+		double cantEmpleadosSector1 = 0, cantCasosSector1 = 0;
+		double cantEmpleadosSector2 = 0, cantCasosSector2 = 0;
+		double cantEmpleadosSector3 = 0, cantCasosSector3 = 0;
+		double cantCasosGral = 0;
 
 		for (int i = 1; i <= EMPLEADOS; i++) {
 			System.out.println("\nIngrese sector:");
