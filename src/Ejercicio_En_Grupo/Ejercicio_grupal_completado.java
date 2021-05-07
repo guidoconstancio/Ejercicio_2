@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Ejercicio_grupal_completado {
 
 	public static void main(String[] args) {
-		final int EMPLEADOS = 50;
+		final int EMPLEADOS = 10;
 
 		Scanner scan = new Scanner(System.in);
 
